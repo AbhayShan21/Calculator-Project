@@ -1,9 +1,9 @@
-🧮 Python Calculator
+# 🧮 Python Calculator
 
 A simple but reliable Python calculator that handles basic math operations with smooth user interaction.
 Made as part of the 100 Days of Python journey.
 
-✨ Features
+## ✨ Features
 
 ➕ Addition
 ➖ Subtraction
@@ -13,7 +13,7 @@ Made as part of the 100 Days of Python journey.
 🧩 Clean, modular function structure
 
 
-🎥 Demo (CLI)
+## 🎥 Demo (CLI)
 
 Welcome to the Calculator!
 What's the first number?: 10
@@ -27,7 +27,7 @@ Enter next number: 2
 Result: 100  
 
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 Writing reusable functions
 Designing loop-based workflows
